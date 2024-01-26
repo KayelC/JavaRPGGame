@@ -1,0 +1,11 @@
+Name: Isaac
+EXP: 0
+LV:2
+HP: 22
+AP: 7
+Pwr: 11
+Def: 5
+Int: 5
+Agl: 8
+Status: Healthy
+Master: None
